@@ -1,0 +1,26 @@
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\bin\Debug\gszb.exe
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\bin\Debug\gszb.pdb
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.csprojResolveAssemblyReference.cache
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.Form1.resources
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.Properties.Resources.resources
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.csproj.GenerateResource.Cache
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.exe
+C:\Users\Appie9482\documents\visual studio 2010\Projects\gszb\gszb\obj\x86\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.exe
+C:\Users\Appie9482\Desktop\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.exe
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\bin\Debug\gszb.exe
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\bin\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.csprojResolveAssemblyReference.cache
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.Form1.resources
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.Properties.Resources.resources
+C:\Users\Appie9482\Desktop\我的大学\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.csproj.GenerateResource.Cache
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.exe
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\bin\Debug\gszb.exe
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\bin\Debug\gszb.pdb
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.csprojResolveAssemblyReference.cache
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.Form1.resources
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.Properties.Resources.resources
+C:\Users\Appie9482\Desktop\我的大学\大二\大二上\测绘编程C#\测绘编程实验三-2016114661-高士健-测绘一班\gszb\gszb\obj\x86\Debug\gszb.csproj.GenerateResource.Cache
